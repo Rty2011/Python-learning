@@ -1,0 +1,12 @@
+set={1,2,3,4,5}
+set2={2,3,4,5,6}
+print(set&set2)
+print(set2.intersection(set))
+print(set|set2)
+print(set.union(set2))
+print(set-set2)
+print(set.difference(set2))
+set.add(1)
+print(set)
+set.remove(1)
+print(set)

@@ -1,0 +1,5 @@
+print("백문이 불여일견\n백견이 불여일타")
+print("저는\"파이썬하는 사람\"입니다")
+print("Red Apple\rPine")
+print("Redd\bApple")
+print("Red\tApple")
